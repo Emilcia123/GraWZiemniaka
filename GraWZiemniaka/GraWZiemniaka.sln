@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraWZiemniaka", "GraWZiemniaka.csproj", "{74E2EB08-B252-4428-8399-9722CDAD9F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikacjaDoZiemniaka", "..\AplikacjaDoZiemniaka\AplikacjaDoZiemniaka.csproj", "{23A505EB-4363-4009-84AD-A0EF9FDF8E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E2EB08-B252-4428-8399-9722CDAD9F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E2EB08-B252-4428-8399-9722CDAD9F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E2EB08-B252-4428-8399-9722CDAD9F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E2EB08-B252-4428-8399-9722CDAD9F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A505EB-4363-4009-84AD-A0EF9FDF8E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A505EB-4363-4009-84AD-A0EF9FDF8E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A505EB-4363-4009-84AD-A0EF9FDF8E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A505EB-4363-4009-84AD-A0EF9FDF8E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0196EFF5-5520-4367-9443-EA5E43CA2FE8}
+	EndGlobalSection
+EndGlobal

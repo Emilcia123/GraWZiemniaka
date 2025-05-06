@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AplikacjaDoZiemniaka/1.0.0": {
+        "dependencies": {
+          "GraWZiemniaka": "1.0.0"
+        },
+        "runtime": {
+          "AplikacjaDoZiemniaka.dll": {}
+        }
+      },
+      "GraWZiemniaka/1.0.0": {
+        "runtime": {
+          "GraWZiemniaka.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplikacjaDoZiemniaka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraWZiemniaka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

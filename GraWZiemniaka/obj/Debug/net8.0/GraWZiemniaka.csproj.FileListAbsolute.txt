@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\bin\Debug\net8.0\GraWZiemniaka.deps.json
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\bin\Debug\net8.0\GraWZiemniaka.dll
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\bin\Debug\net8.0\GraWZiemniaka.pdb
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\obj\Debug\net8.0\GraWZiemniaka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\obj\Debug\net8.0\GraWZiemniaka.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\obj\Debug\net8.0\GraWZiemniaka.AssemblyInfo.cs
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\obj\Debug\net8.0\GraWZiemniaka.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\obj\Debug\net8.0\GraWZiemniaka.dll
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\obj\Debug\net8.0\refint\GraWZiemniaka.dll
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\obj\Debug\net8.0\GraWZiemniaka.pdb
+C:\Users\ASUS\Documents\studia_3_rok\PZ\GraWZiemniaka\obj\Debug\net8.0\ref\GraWZiemniaka.dll

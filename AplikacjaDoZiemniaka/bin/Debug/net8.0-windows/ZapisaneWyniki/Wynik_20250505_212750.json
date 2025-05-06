@@ -1,0 +1,12 @@
+{
+  "Players": [
+    {
+      "Name": "Gracz 1",
+      "Wynik": 1
+    },
+    {
+      "Name": "Gracz 2",
+      "Wynik": 1
+    }
+  ]
+}
